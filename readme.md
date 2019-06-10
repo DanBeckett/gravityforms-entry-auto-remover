@@ -1,4 +1,4 @@
-#Gravity Forms Auto Entry-Remover
+# Gravity Forms Auto Entry-Remover
 Contributors: DanBeckett\
 Tags: forms\
 Requires at least: 5.2.1\
